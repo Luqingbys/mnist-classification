@@ -1,0 +1,367 @@
+[2023-04-10 20:46:38,066][train.py][line:19][INFO] Start trainning......
+[2023-04-10 20:46:42,349][train.py][line:54][INFO] Epoch:[1/50]	 loss=2.26156	 acc=0.130
+[2023-04-10 20:46:42,964][train.py][line:54][INFO] Epoch:[2/50]	 loss=2.25940	 acc=0.304
+[2023-04-10 20:46:43,570][train.py][line:54][INFO] Epoch:[3/50]	 loss=1.97253	 acc=0.304
+[2023-04-10 20:46:44,185][train.py][line:54][INFO] Epoch:[4/50]	 loss=1.46363	 acc=0.435
+[2023-04-10 20:46:44,798][train.py][line:54][INFO] Epoch:[5/50]	 loss=1.26705	 acc=0.609
+[2023-04-10 20:46:45,397][train.py][line:54][INFO] Epoch:[6/50]	 loss=1.05064	 acc=0.652
+[2023-04-10 20:46:45,990][train.py][line:54][INFO] Epoch:[7/50]	 loss=0.80594	 acc=0.739
+[2023-04-10 20:46:46,581][train.py][line:54][INFO] Epoch:[8/50]	 loss=0.63242	 acc=0.739
+[2023-04-10 20:46:47,173][train.py][line:54][INFO] Epoch:[9/50]	 loss=0.46812	 acc=0.783
+[2023-04-10 20:46:47,767][train.py][line:54][INFO] Epoch:[10/50]	 loss=0.64455	 acc=0.739
+[2023-04-10 20:46:48,359][train.py][line:54][INFO] Epoch:[11/50]	 loss=0.55032	 acc=0.913
+[2023-04-10 20:46:49,040][train.py][line:54][INFO] Epoch:[12/50]	 loss=0.81596	 acc=0.783
+[2023-04-10 20:46:49,698][train.py][line:54][INFO] Epoch:[13/50]	 loss=0.38572	 acc=0.870
+[2023-04-10 20:46:50,437][train.py][line:54][INFO] Epoch:[14/50]	 loss=0.39507	 acc=0.913
+[2023-04-10 20:46:51,229][train.py][line:54][INFO] Epoch:[15/50]	 loss=0.23020	 acc=0.870
+[2023-04-10 20:46:52,022][train.py][line:54][INFO] Epoch:[16/50]	 loss=0.73183	 acc=0.739
+[2023-04-10 20:46:52,876][train.py][line:54][INFO] Epoch:[17/50]	 loss=0.19945	 acc=0.870
+[2023-04-10 20:46:53,582][train.py][line:54][INFO] Epoch:[18/50]	 loss=0.52439	 acc=0.826
+[2023-04-10 20:46:54,252][train.py][line:54][INFO] Epoch:[19/50]	 loss=0.35788	 acc=0.870
+[2023-04-10 20:46:55,051][train.py][line:54][INFO] Epoch:[20/50]	 loss=0.22013	 acc=0.957
+[2023-04-10 20:46:55,874][train.py][line:54][INFO] Epoch:[21/50]	 loss=0.31060	 acc=0.826
+[2023-04-10 20:46:56,680][train.py][line:54][INFO] Epoch:[22/50]	 loss=0.21985	 acc=0.957
+[2023-04-10 20:46:57,416][train.py][line:54][INFO] Epoch:[23/50]	 loss=0.24705	 acc=0.783
+[2023-04-10 20:46:58,129][train.py][line:54][INFO] Epoch:[24/50]	 loss=0.41294	 acc=0.870
+[2023-04-10 20:46:58,740][train.py][line:54][INFO] Epoch:[25/50]	 loss=0.35337	 acc=0.913
+[2023-04-10 20:46:59,356][train.py][line:54][INFO] Epoch:[26/50]	 loss=0.27154	 acc=0.913
+[2023-04-10 20:46:59,966][train.py][line:54][INFO] Epoch:[27/50]	 loss=0.18603	 acc=0.913
+[2023-04-10 20:47:00,578][train.py][line:54][INFO] Epoch:[28/50]	 loss=0.43218	 acc=0.870
+[2023-04-10 20:47:01,189][train.py][line:54][INFO] Epoch:[29/50]	 loss=0.28128	 acc=0.870
+[2023-04-10 20:47:01,869][train.py][line:54][INFO] Epoch:[30/50]	 loss=0.21369	 acc=0.913
+[2023-04-10 20:47:02,597][train.py][line:54][INFO] Epoch:[31/50]	 loss=0.06218	 acc=1.000
+[2023-04-10 20:47:03,242][train.py][line:54][INFO] Epoch:[32/50]	 loss=0.33425	 acc=0.870
+[2023-04-10 20:47:03,857][train.py][line:54][INFO] Epoch:[33/50]	 loss=0.15853	 acc=0.957
+[2023-04-10 20:47:04,459][train.py][line:54][INFO] Epoch:[34/50]	 loss=0.66559	 acc=0.826
+[2023-04-10 20:47:05,063][train.py][line:54][INFO] Epoch:[35/50]	 loss=0.22543	 acc=0.957
+[2023-04-10 20:47:05,674][train.py][line:54][INFO] Epoch:[36/50]	 loss=0.29893	 acc=0.913
+[2023-04-10 20:47:06,285][train.py][line:54][INFO] Epoch:[37/50]	 loss=0.41892	 acc=0.783
+[2023-04-10 20:47:06,897][train.py][line:54][INFO] Epoch:[38/50]	 loss=0.25786	 acc=0.870
+[2023-04-10 20:47:07,635][train.py][line:54][INFO] Epoch:[39/50]	 loss=0.29863	 acc=0.913
+[2023-04-10 20:47:08,432][train.py][line:54][INFO] Epoch:[40/50]	 loss=0.10462	 acc=0.957
+[2023-04-10 20:47:09,226][train.py][line:54][INFO] Epoch:[41/50]	 loss=0.19261	 acc=0.913
+[2023-04-10 20:47:10,019][train.py][line:54][INFO] Epoch:[42/50]	 loss=0.10830	 acc=0.957
+[2023-04-10 20:47:10,809][train.py][line:54][INFO] Epoch:[43/50]	 loss=0.21378	 acc=0.957
+[2023-04-10 20:47:11,468][train.py][line:54][INFO] Epoch:[44/50]	 loss=0.22772	 acc=0.913
+[2023-04-10 20:47:12,267][train.py][line:54][INFO] Epoch:[45/50]	 loss=0.16783	 acc=0.913
+[2023-04-10 20:47:13,063][train.py][line:54][INFO] Epoch:[46/50]	 loss=0.11466	 acc=0.957
+[2023-04-10 20:47:13,860][train.py][line:54][INFO] Epoch:[47/50]	 loss=0.50807	 acc=0.826
+[2023-04-10 20:47:14,655][train.py][line:54][INFO] Epoch:[48/50]	 loss=0.07102	 acc=0.957
+[2023-04-10 20:47:15,453][train.py][line:54][INFO] Epoch:[49/50]	 loss=0.00538	 acc=1.000
+[2023-04-10 20:47:16,251][train.py][line:54][INFO] Epoch:[50/50]	 loss=0.17084	 acc=0.913
+[2023-04-10 20:47:16,251][train.py][line:59][INFO] Finish training!
+[2023-04-10 20:47:29,792][test.py][line:12][INFO] Start testing...
+[2023-04-10 20:47:29,815][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0532, Test Acc: 0.9688
+[2023-04-10 20:47:29,831][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2535, Test Acc: 0.9062
+[2023-04-10 20:47:29,847][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0808, Test Acc: 0.9688
+[2023-04-10 20:47:29,863][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0865, Test Acc: 0.9688
+[2023-04-10 20:47:29,879][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2150, Test Acc: 0.8750
+[2023-04-10 20:47:29,895][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0344, Test Acc: 1.0000
+[2023-04-10 20:47:29,911][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0220, Test Acc: 1.0000
+[2023-04-10 20:47:29,927][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3081, Test Acc: 0.8750
+[2023-04-10 20:47:29,943][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3731, Test Acc: 0.9062
+[2023-04-10 20:47:29,959][test.py][line:55][INFO] current batch testing result... Test Loss: 0.8804, Test Acc: 0.8438
+[2023-04-10 20:47:29,975][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4431, Test Acc: 0.8750
+[2023-04-10 20:47:29,991][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2312, Test Acc: 0.9062
+[2023-04-10 20:47:30,006][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0539, Test Acc: 0.9688
+[2023-04-10 20:47:30,023][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3530, Test Acc: 0.9062
+[2023-04-10 20:47:30,039][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2015, Test Acc: 0.9375
+[2023-04-10 20:47:30,055][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1355, Test Acc: 0.9375
+[2023-04-10 20:47:30,071][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0617, Test Acc: 0.9688
+[2023-04-10 20:47:30,086][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3962, Test Acc: 0.8438
+[2023-04-10 20:47:30,102][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1739, Test Acc: 0.9375
+[2023-04-10 20:47:30,119][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4296, Test Acc: 0.9375
+[2023-04-10 20:47:30,135][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4909, Test Acc: 0.9062
+[2023-04-10 20:47:30,157][test.py][line:55][INFO] current batch testing result... Test Loss: 0.5458, Test Acc: 0.9062
+[2023-04-10 20:47:30,173][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4058, Test Acc: 0.8750
+[2023-04-10 20:47:30,189][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1739, Test Acc: 0.9375
+[2023-04-10 20:47:30,204][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0444, Test Acc: 0.9688
+[2023-04-10 20:47:30,222][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1469, Test Acc: 0.9688
+[2023-04-10 20:47:30,238][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1728, Test Acc: 0.9375
+[2023-04-10 20:47:30,254][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0242, Test Acc: 1.0000
+[2023-04-10 20:47:30,270][test.py][line:55][INFO] current batch testing result... Test Loss: 0.5276, Test Acc: 0.8750
+[2023-04-10 20:47:30,286][test.py][line:55][INFO] current batch testing result... Test Loss: 1.1272, Test Acc: 0.7812
+[2023-04-10 20:47:30,302][test.py][line:55][INFO] current batch testing result... Test Loss: 0.6976, Test Acc: 0.8438
+[2023-04-10 20:47:30,318][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3857, Test Acc: 0.9062
+[2023-04-10 20:47:30,338][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2839, Test Acc: 0.9062
+[2023-04-10 20:47:30,354][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4188, Test Acc: 0.9062
+[2023-04-10 20:47:30,370][test.py][line:55][INFO] current batch testing result... Test Loss: 1.0305, Test Acc: 0.8125
+[2023-04-10 20:47:30,386][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0705, Test Acc: 0.9688
+[2023-04-10 20:47:30,402][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2356, Test Acc: 0.9062
+[2023-04-10 20:47:30,418][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2995, Test Acc: 0.9062
+[2023-04-10 20:47:30,434][test.py][line:55][INFO] current batch testing result... Test Loss: 1.4627, Test Acc: 0.8750
+[2023-04-10 20:47:30,455][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3038, Test Acc: 0.8438
+[2023-04-10 20:47:30,471][test.py][line:55][INFO] current batch testing result... Test Loss: 1.0301, Test Acc: 0.8750
+[2023-04-10 20:47:30,487][test.py][line:55][INFO] current batch testing result... Test Loss: 0.8571, Test Acc: 0.9062
+[2023-04-10 20:47:30,503][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1075, Test Acc: 0.9375
+[2023-04-10 20:47:30,519][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2676, Test Acc: 0.9688
+[2023-04-10 20:47:30,535][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3046, Test Acc: 0.9062
+[2023-04-10 20:47:30,551][test.py][line:55][INFO] current batch testing result... Test Loss: 0.5448, Test Acc: 0.8438
+[2023-04-10 20:47:30,567][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2802, Test Acc: 0.9688
+[2023-04-10 20:47:30,583][test.py][line:55][INFO] current batch testing result... Test Loss: 0.9500, Test Acc: 0.8750
+[2023-04-10 20:47:30,598][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3082, Test Acc: 0.9375
+[2023-04-10 20:47:30,615][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2908, Test Acc: 0.9062
+[2023-04-10 20:47:30,630][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3054, Test Acc: 0.9375
+[2023-04-10 20:47:30,646][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0519, Test Acc: 1.0000
+[2023-04-10 20:47:30,662][test.py][line:55][INFO] current batch testing result... Test Loss: 0.7384, Test Acc: 0.9062
+[2023-04-10 20:47:30,678][test.py][line:55][INFO] current batch testing result... Test Loss: 1.0910, Test Acc: 0.7500
+[2023-04-10 20:47:30,694][test.py][line:55][INFO] current batch testing result... Test Loss: 0.7095, Test Acc: 0.9375
+[2023-04-10 20:47:30,710][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3151, Test Acc: 0.8750
+[2023-04-10 20:47:30,726][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2057, Test Acc: 0.9062
+[2023-04-10 20:47:30,742][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2955, Test Acc: 0.9375
+[2023-04-10 20:47:30,758][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2692, Test Acc: 0.9375
+[2023-04-10 20:47:30,774][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1719, Test Acc: 0.9375
+[2023-04-10 20:47:30,789][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3122, Test Acc: 0.9062
+[2023-04-10 20:47:30,805][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1151, Test Acc: 0.9688
+[2023-04-10 20:47:30,821][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2162, Test Acc: 0.9688
+[2023-04-10 20:47:30,837][test.py][line:55][INFO] current batch testing result... Test Loss: 0.8157, Test Acc: 0.9062
+[2023-04-10 20:47:30,853][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1828, Test Acc: 0.9062
+[2023-04-10 20:47:30,869][test.py][line:55][INFO] current batch testing result... Test Loss: 0.7931, Test Acc: 0.8438
+[2023-04-10 20:47:30,885][test.py][line:55][INFO] current batch testing result... Test Loss: 0.5876, Test Acc: 0.8750
+[2023-04-10 20:47:30,901][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1066, Test Acc: 0.9688
+[2023-04-10 20:47:30,917][test.py][line:55][INFO] current batch testing result... Test Loss: 1.1900, Test Acc: 0.8438
+[2023-04-10 20:47:30,932][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1001, Test Acc: 0.9688
+[2023-04-10 20:47:30,949][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3787, Test Acc: 0.9688
+[2023-04-10 20:47:30,965][test.py][line:55][INFO] current batch testing result... Test Loss: 0.6050, Test Acc: 0.8750
+[2023-04-10 20:47:30,981][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3789, Test Acc: 0.9688
+[2023-04-10 20:47:30,997][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2834, Test Acc: 0.9062
+[2023-04-10 20:47:31,013][test.py][line:55][INFO] current batch testing result... Test Loss: 0.5353, Test Acc: 0.8125
+[2023-04-10 20:47:31,029][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2685, Test Acc: 0.9688
+[2023-04-10 20:47:31,045][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4221, Test Acc: 0.8750
+[2023-04-10 20:47:31,062][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0257, Test Acc: 1.0000
+[2023-04-10 20:47:31,077][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2338, Test Acc: 0.9375
+[2023-04-10 20:47:31,093][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2783, Test Acc: 0.9375
+[2023-04-10 20:47:31,109][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3033, Test Acc: 0.9062
+[2023-04-10 20:47:31,125][test.py][line:55][INFO] current batch testing result... Test Loss: 0.5447, Test Acc: 0.9062
+[2023-04-10 20:47:31,141][test.py][line:55][INFO] current batch testing result... Test Loss: 0.5230, Test Acc: 0.9062
+[2023-04-10 20:47:31,157][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3135, Test Acc: 0.9688
+[2023-04-10 20:47:31,173][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1540, Test Acc: 0.9688
+[2023-04-10 20:47:31,189][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3222, Test Acc: 0.9688
+[2023-04-10 20:47:31,205][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4799, Test Acc: 0.9062
+[2023-04-10 20:47:31,221][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1096, Test Acc: 0.9688
+[2023-04-10 20:47:31,237][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4317, Test Acc: 0.9062
+[2023-04-10 20:47:31,253][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1271, Test Acc: 0.9375
+[2023-04-10 20:47:31,269][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4582, Test Acc: 0.9062
+[2023-04-10 20:47:31,285][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2847, Test Acc: 0.9375
+[2023-04-10 20:47:31,301][test.py][line:55][INFO] current batch testing result... Test Loss: 0.5861, Test Acc: 0.8750
+[2023-04-10 20:47:31,317][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3758, Test Acc: 0.8750
+[2023-04-10 20:47:31,333][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0695, Test Acc: 0.9688
+[2023-04-10 20:47:31,349][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3800, Test Acc: 0.9375
+[2023-04-10 20:47:31,365][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4436, Test Acc: 0.9688
+[2023-04-10 20:47:31,381][test.py][line:55][INFO] current batch testing result... Test Loss: 0.5444, Test Acc: 0.9062
+[2023-04-10 20:47:31,397][test.py][line:55][INFO] current batch testing result... Test Loss: 0.5199, Test Acc: 0.8750
+[2023-04-10 20:47:31,413][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0420, Test Acc: 1.0000
+[2023-04-10 20:47:31,429][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1583, Test Acc: 0.8750
+[2023-04-10 20:47:31,445][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1444, Test Acc: 0.9062
+[2023-04-10 20:47:31,461][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1187, Test Acc: 0.9688
+[2023-04-10 20:47:31,477][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1990, Test Acc: 0.9688
+[2023-04-10 20:47:31,493][test.py][line:55][INFO] current batch testing result... Test Loss: 1.0652, Test Acc: 0.8750
+[2023-04-10 20:47:31,512][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4646, Test Acc: 0.8750
+[2023-04-10 20:47:31,532][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1222, Test Acc: 0.9688
+[2023-04-10 20:47:31,552][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0349, Test Acc: 1.0000
+[2023-04-10 20:47:31,571][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2116, Test Acc: 0.9375
+[2023-04-10 20:47:31,591][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2612, Test Acc: 0.8750
+[2023-04-10 20:47:31,611][test.py][line:55][INFO] current batch testing result... Test Loss: 0.5025, Test Acc: 0.8125
+[2023-04-10 20:47:31,630][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4747, Test Acc: 0.9062
+[2023-04-10 20:47:31,650][test.py][line:55][INFO] current batch testing result... Test Loss: 0.5062, Test Acc: 0.8750
+[2023-04-10 20:47:31,670][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0725, Test Acc: 0.9688
+[2023-04-10 20:47:31,690][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2214, Test Acc: 0.9375
+[2023-04-10 20:47:31,709][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1566, Test Acc: 0.9688
+[2023-04-10 20:47:31,729][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3103, Test Acc: 0.8750
+[2023-04-10 20:47:31,748][test.py][line:55][INFO] current batch testing result... Test Loss: 0.8502, Test Acc: 0.9062
+[2023-04-10 20:47:31,768][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3825, Test Acc: 0.9062
+[2023-04-10 20:47:31,788][test.py][line:55][INFO] current batch testing result... Test Loss: 0.6966, Test Acc: 0.8125
+[2023-04-10 20:47:31,808][test.py][line:55][INFO] current batch testing result... Test Loss: 0.8530, Test Acc: 0.8438
+[2023-04-10 20:47:31,828][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0628, Test Acc: 0.9688
+[2023-04-10 20:47:31,847][test.py][line:55][INFO] current batch testing result... Test Loss: 0.6819, Test Acc: 0.9375
+[2023-04-10 20:47:31,866][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3737, Test Acc: 0.9062
+[2023-04-10 20:47:31,883][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1752, Test Acc: 0.9062
+[2023-04-10 20:47:31,899][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2379, Test Acc: 0.9062
+[2023-04-10 20:47:31,915][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2760, Test Acc: 0.9062
+[2023-04-10 20:47:31,931][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4128, Test Acc: 0.9062
+[2023-04-10 20:47:31,947][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1701, Test Acc: 0.9375
+[2023-04-10 20:47:31,963][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1592, Test Acc: 0.9062
+[2023-04-10 20:47:31,979][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1430, Test Acc: 0.9688
+[2023-04-10 20:47:31,995][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3775, Test Acc: 0.9062
+[2023-04-10 20:47:32,011][test.py][line:55][INFO] current batch testing result... Test Loss: 1.1701, Test Acc: 0.8438
+[2023-04-10 20:47:32,027][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2973, Test Acc: 0.9375
+[2023-04-10 20:47:32,043][test.py][line:55][INFO] current batch testing result... Test Loss: 0.7499, Test Acc: 0.8438
+[2023-04-10 20:47:32,059][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0431, Test Acc: 1.0000
+[2023-04-10 20:47:32,075][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4006, Test Acc: 0.8750
+[2023-04-10 20:47:32,091][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0144, Test Acc: 1.0000
+[2023-04-10 20:47:32,107][test.py][line:55][INFO] current batch testing result... Test Loss: 0.6052, Test Acc: 0.8438
+[2023-04-10 20:47:32,123][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1377, Test Acc: 0.9688
+[2023-04-10 20:47:32,139][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4990, Test Acc: 0.8438
+[2023-04-10 20:47:32,155][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0995, Test Acc: 0.9375
+[2023-04-10 20:47:32,171][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1724, Test Acc: 0.9062
+[2023-04-10 20:47:32,187][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1757, Test Acc: 0.9688
+[2023-04-10 20:47:32,203][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2477, Test Acc: 0.9062
+[2023-04-10 20:47:32,219][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2840, Test Acc: 0.9375
+[2023-04-10 20:47:32,235][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3189, Test Acc: 0.9062
+[2023-04-10 20:47:32,251][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1715, Test Acc: 0.9688
+[2023-04-10 20:47:32,267][test.py][line:55][INFO] current batch testing result... Test Loss: 0.8725, Test Acc: 0.7812
+[2023-04-10 20:47:32,283][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1881, Test Acc: 0.9375
+[2023-04-10 20:47:32,299][test.py][line:55][INFO] current batch testing result... Test Loss: 0.6838, Test Acc: 0.8750
+[2023-04-10 20:47:32,315][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3636, Test Acc: 0.8750
+[2023-04-10 20:47:32,332][test.py][line:55][INFO] current batch testing result... Test Loss: 0.7421, Test Acc: 0.8125
+[2023-04-10 20:47:32,348][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1031, Test Acc: 0.9688
+[2023-04-10 20:47:32,364][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4938, Test Acc: 0.8750
+[2023-04-10 20:47:32,379][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3692, Test Acc: 0.9062
+[2023-04-10 20:47:32,395][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0136, Test Acc: 1.0000
+[2023-04-10 20:47:32,411][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1524, Test Acc: 0.9688
+[2023-04-10 20:47:32,428][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1756, Test Acc: 0.9375
+[2023-04-10 20:47:32,444][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0084, Test Acc: 1.0000
+[2023-04-10 20:47:32,460][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1388, Test Acc: 0.9688
+[2023-04-10 20:47:32,476][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0750, Test Acc: 0.9688
+[2023-04-10 20:47:32,492][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0009, Test Acc: 1.0000
+[2023-04-10 20:47:32,508][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0631, Test Acc: 0.9688
+[2023-04-10 20:47:32,524][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0746, Test Acc: 0.9688
+[2023-04-10 20:47:32,540][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0127, Test Acc: 1.0000
+[2023-04-10 20:47:32,556][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1886, Test Acc: 0.9688
+[2023-04-10 20:47:32,572][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0109, Test Acc: 1.0000
+[2023-04-10 20:47:32,588][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0244, Test Acc: 1.0000
+[2023-04-10 20:47:32,604][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0401, Test Acc: 0.9688
+[2023-04-10 20:47:32,620][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0032, Test Acc: 1.0000
+[2023-04-10 20:47:32,636][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0023, Test Acc: 1.0000
+[2023-04-10 20:47:32,652][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0172, Test Acc: 1.0000
+[2023-04-10 20:47:32,668][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0534, Test Acc: 0.9375
+[2023-04-10 20:47:32,684][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0085, Test Acc: 1.0000
+[2023-04-10 20:47:32,700][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2113, Test Acc: 0.9062
+[2023-04-10 20:47:32,716][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1206, Test Acc: 0.9375
+[2023-04-10 20:47:32,731][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1531, Test Acc: 0.9688
+[2023-04-10 20:47:32,747][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1167, Test Acc: 0.9375
+[2023-04-10 20:47:32,763][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1331, Test Acc: 0.9688
+[2023-04-10 20:47:32,779][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0013, Test Acc: 1.0000
+[2023-04-10 20:47:32,795][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0003, Test Acc: 1.0000
+[2023-04-10 20:47:32,810][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4695, Test Acc: 0.9062
+[2023-04-10 20:47:32,826][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3207, Test Acc: 0.9062
+[2023-04-10 20:47:32,842][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4384, Test Acc: 0.9062
+[2023-04-10 20:47:32,858][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1010, Test Acc: 0.9688
+[2023-04-10 20:47:32,874][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2508, Test Acc: 0.9375
+[2023-04-10 20:47:32,890][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1258, Test Acc: 0.9375
+[2023-04-10 20:47:32,906][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2571, Test Acc: 0.9062
+[2023-04-10 20:47:32,921][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2126, Test Acc: 0.9375
+[2023-04-10 20:47:32,937][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4766, Test Acc: 0.9375
+[2023-04-10 20:47:32,953][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1176, Test Acc: 0.9375
+[2023-04-10 20:47:32,969][test.py][line:55][INFO] current batch testing result... Test Loss: 0.8316, Test Acc: 0.8750
+[2023-04-10 20:47:32,985][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0001, Test Acc: 1.0000
+[2023-04-10 20:47:33,001][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0002, Test Acc: 1.0000
+[2023-04-10 20:47:33,017][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0002, Test Acc: 1.0000
+[2023-04-10 20:47:33,032][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0010, Test Acc: 1.0000
+[2023-04-10 20:47:33,048][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0106, Test Acc: 1.0000
+[2023-04-10 20:47:33,064][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0014, Test Acc: 1.0000
+[2023-04-10 20:47:33,080][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0014, Test Acc: 1.0000
+[2023-04-10 20:47:33,095][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0191, Test Acc: 1.0000
+[2023-04-10 20:47:33,112][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0023, Test Acc: 1.0000
+[2023-04-10 20:47:33,127][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0091, Test Acc: 1.0000
+[2023-04-10 20:47:33,143][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3555, Test Acc: 0.9375
+[2023-04-10 20:47:33,159][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0374, Test Acc: 0.9688
+[2023-04-10 20:47:33,175][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3646, Test Acc: 0.9062
+[2023-04-10 20:47:33,190][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4205, Test Acc: 0.9375
+[2023-04-10 20:47:33,206][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2276, Test Acc: 0.9375
+[2023-04-10 20:47:33,222][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0111, Test Acc: 1.0000
+[2023-04-10 20:47:33,238][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2211, Test Acc: 0.9375
+[2023-04-10 20:47:33,254][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1680, Test Acc: 0.9375
+[2023-04-10 20:47:33,270][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2607, Test Acc: 0.9062
+[2023-04-10 20:47:33,286][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0619, Test Acc: 0.9688
+[2023-04-10 20:47:33,301][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0016, Test Acc: 1.0000
+[2023-04-10 20:47:33,317][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0599, Test Acc: 0.9688
+[2023-04-10 20:47:33,333][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3753, Test Acc: 0.9375
+[2023-04-10 20:47:33,349][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0142, Test Acc: 1.0000
+[2023-04-10 20:47:33,365][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0104, Test Acc: 1.0000
+[2023-04-10 20:47:33,381][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0173, Test Acc: 1.0000
+[2023-04-10 20:47:33,397][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0007, Test Acc: 1.0000
+[2023-04-10 20:47:33,413][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0042, Test Acc: 1.0000
+[2023-04-10 20:47:33,428][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0439, Test Acc: 0.9688
+[2023-04-10 20:47:33,444][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1971, Test Acc: 0.9062
+[2023-04-10 20:47:33,460][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0022, Test Acc: 1.0000
+[2023-04-10 20:47:33,476][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1021, Test Acc: 0.9375
+[2023-04-10 20:47:33,492][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0110, Test Acc: 1.0000
+[2023-04-10 20:47:33,508][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0508, Test Acc: 1.0000
+[2023-04-10 20:47:33,524][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0080, Test Acc: 1.0000
+[2023-04-10 20:47:33,539][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0007, Test Acc: 1.0000
+[2023-04-10 20:47:33,556][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0023, Test Acc: 1.0000
+[2023-04-10 20:47:33,571][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0009, Test Acc: 1.0000
+[2023-04-10 20:47:33,587][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2153, Test Acc: 0.9688
+[2023-04-10 20:47:33,603][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3560, Test Acc: 0.9375
+[2023-04-10 20:47:33,619][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2931, Test Acc: 0.8750
+[2023-04-10 20:47:33,635][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0533, Test Acc: 0.9688
+[2023-04-10 20:47:33,654][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0384, Test Acc: 1.0000
+[2023-04-10 20:47:33,670][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0739, Test Acc: 0.9688
+[2023-04-10 20:47:33,686][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0710, Test Acc: 0.9688
+[2023-04-10 20:47:33,702][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2284, Test Acc: 0.9375
+[2023-04-10 20:47:33,718][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0112, Test Acc: 1.0000
+[2023-04-10 20:47:33,734][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0273, Test Acc: 0.9688
+[2023-04-10 20:47:33,750][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0072, Test Acc: 1.0000
+[2023-04-10 20:47:33,765][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0007, Test Acc: 1.0000
+[2023-04-10 20:47:33,781][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0697, Test Acc: 0.9375
+[2023-04-10 20:47:33,797][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0187, Test Acc: 1.0000
+[2023-04-10 20:47:33,813][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1181, Test Acc: 0.9688
+[2023-04-10 20:47:33,829][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0825, Test Acc: 0.9688
+[2023-04-10 20:47:33,845][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0619, Test Acc: 0.9688
+[2023-04-10 20:47:33,861][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0079, Test Acc: 1.0000
+[2023-04-10 20:47:33,877][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0009, Test Acc: 1.0000
+[2023-04-10 20:47:33,893][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0031, Test Acc: 1.0000
+[2023-04-10 20:47:33,909][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0033, Test Acc: 1.0000
+[2023-04-10 20:47:33,925][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2565, Test Acc: 0.9062
+[2023-04-10 20:47:33,941][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0059, Test Acc: 1.0000
+[2023-04-10 20:47:33,957][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0198, Test Acc: 1.0000
+[2023-04-10 20:47:33,973][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1153, Test Acc: 0.9375
+[2023-04-10 20:47:33,989][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0146, Test Acc: 1.0000
+[2023-04-10 20:47:34,005][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0443, Test Acc: 1.0000
+[2023-04-10 20:47:34,021][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0281, Test Acc: 1.0000
+[2023-04-10 20:47:34,037][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0110, Test Acc: 1.0000
+[2023-04-10 20:47:34,053][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0870, Test Acc: 0.9688
+[2023-04-10 20:47:34,069][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0277, Test Acc: 1.0000
+[2023-04-10 20:47:34,085][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3502, Test Acc: 0.9062
+[2023-04-10 20:47:34,101][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0131, Test Acc: 1.0000
+[2023-04-10 20:47:34,117][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0431, Test Acc: 0.9688
+[2023-04-10 20:47:34,133][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0498, Test Acc: 0.9688
+[2023-04-10 20:47:34,149][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0972, Test Acc: 0.9688
+[2023-04-10 20:47:34,165][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0049, Test Acc: 1.0000
+[2023-04-10 20:47:34,181][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0066, Test Acc: 1.0000
+[2023-04-10 20:47:34,197][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1342, Test Acc: 0.9375
+[2023-04-10 20:47:34,213][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0046, Test Acc: 1.0000
+[2023-04-10 20:47:34,229][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0013, Test Acc: 1.0000
+[2023-04-10 20:47:34,245][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0012, Test Acc: 1.0000
+[2023-04-10 20:47:34,261][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0163, Test Acc: 1.0000
+[2023-04-10 20:47:34,277][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0041, Test Acc: 1.0000
+[2023-04-10 20:47:34,293][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0036, Test Acc: 1.0000
+[2023-04-10 20:47:34,309][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0004, Test Acc: 1.0000
+[2023-04-10 20:47:34,325][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0022, Test Acc: 1.0000
+[2023-04-10 20:47:34,341][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0023, Test Acc: 1.0000
+[2023-04-10 20:47:34,357][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0036, Test Acc: 1.0000
+[2023-04-10 20:47:34,373][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0008, Test Acc: 1.0000
+[2023-04-10 20:47:34,389][test.py][line:55][INFO] current batch testing result... Test Loss: 0.9329, Test Acc: 0.9062
+[2023-04-10 20:47:34,405][test.py][line:55][INFO] current batch testing result... Test Loss: 1.4805, Test Acc: 0.8438
+[2023-04-10 20:47:34,421][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1561, Test Acc: 0.9688
+[2023-04-10 20:47:34,437][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0842, Test Acc: 0.9688
+[2023-04-10 20:47:34,453][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0724, Test Acc: 0.9688
+[2023-04-10 20:47:34,469][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0365, Test Acc: 0.9688
+[2023-04-10 20:47:34,485][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0160, Test Acc: 1.0000
+[2023-04-10 20:47:34,501][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0026, Test Acc: 1.0000
+[2023-04-10 20:47:34,517][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0057, Test Acc: 1.0000
+[2023-04-10 20:47:34,533][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0117, Test Acc: 1.0000
+[2023-04-10 20:47:34,549][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0401, Test Acc: 0.9688
+[2023-04-10 20:47:34,565][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0195, Test Acc: 1.0000
+[2023-04-10 20:47:34,581][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0148, Test Acc: 1.0000
+[2023-04-10 20:47:34,597][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0295, Test Acc: 0.9688
+[2023-04-10 20:47:34,613][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0064, Test Acc: 1.0000
+[2023-04-10 20:47:34,628][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0147, Test Acc: 1.0000
+[2023-04-10 20:47:34,645][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0681, Test Acc: 0.9688
+[2023-04-10 20:47:34,660][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0235, Test Acc: 1.0000
+[2023-04-10 20:47:34,676][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0231, Test Acc: 1.0000
+[2023-04-10 20:47:34,692][test.py][line:55][INFO] current batch testing result... Test Loss: 0.1488, Test Acc: 0.9375
+[2023-04-10 20:47:34,708][test.py][line:55][INFO] current batch testing result... Test Loss: 0.3344, Test Acc: 0.8750
+[2023-04-10 20:47:34,724][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0892, Test Acc: 0.9688
+[2023-04-10 20:47:34,740][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2821, Test Acc: 0.9375
+[2023-04-10 20:47:34,756][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4307, Test Acc: 0.8438
+[2023-04-10 20:47:34,772][test.py][line:55][INFO] current batch testing result... Test Loss: 0.7168, Test Acc: 0.9062
+[2023-04-10 20:47:34,788][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0099, Test Acc: 1.0000
+[2023-04-10 20:47:34,804][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4689, Test Acc: 0.8750
+[2023-04-10 20:47:34,820][test.py][line:55][INFO] current batch testing result... Test Loss: 0.4332, Test Acc: 0.8750
+[2023-04-10 20:47:34,836][test.py][line:55][INFO] current batch testing result... Test Loss: 0.7304, Test Acc: 0.8438
+[2023-04-10 20:47:34,852][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2042, Test Acc: 0.9688
+[2023-04-10 20:47:34,868][test.py][line:55][INFO] current batch testing result... Test Loss: 0.2954, Test Acc: 0.9062
+[2023-04-10 20:47:34,878][test.py][line:55][INFO] current batch testing result... Test Loss: 0.0015, Test Acc: 0.5000
+[2023-04-10 20:47:34,880][test.py][line:69][INFO] total test loss: 0.2441, average test accuracy: 0.9406
